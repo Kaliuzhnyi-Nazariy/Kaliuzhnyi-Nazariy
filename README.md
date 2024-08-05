@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaliuzhnyi-Nazariy
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning TypeScript!
+- 🌱 I’m currently learning Vue.js!
 - 📫 How to reach me [e-mail](kaliuzhnyinazarii@gmail.com)
 - ⚡ Fun fact: I love what I'm doing!
 
