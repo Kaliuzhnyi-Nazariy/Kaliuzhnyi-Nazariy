@@ -1,10 +1,10 @@
-#Nazarii Kaliuzhnyi
+# Nazarii Kaliuzhnyi
 
 ## FRONTEND/FULLSTACK WEB DEVELOPER
 
 ### TECH STACK
 
-####LANGUAGES
+#### LANGUAGES
 - JavaScript/TypeScript
 
 #### FRONTEND
